@@ -1,0 +1,5 @@
+This Python code creates a simple ATM program that stores customer information in an SQLite database. 
+It allows users to perform various transactions, such as viewing account information, changing their PIN, 
+withdrawing or depositing cash, transferring funds between linked accounts, and quitting the program.
+The user selects a transaction from the menu by inputting the corresponding number.
+The program handles invalid inputs and checks that the input data is of the correct type.
